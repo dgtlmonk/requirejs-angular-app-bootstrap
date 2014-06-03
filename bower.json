@@ -5,7 +5,7 @@
   "authors": [
     "Joel Pablo <joel.pablo@digitalmonkstudio.com>"
   ],
-  "description": "angular directive exercise 1",
+  "description": "requirejs angular module loader",
   "main": "index.html",
   "license": "MIT",
   "private": true,
