@@ -2,5 +2,4 @@
 RequireJS + Angular module loader best practice
 ================================================
 
-Based on
-http://www.startersquad.com/blog/angularjs-requirejs/
+Angular + Require JS application module structuring boilerplate. Feel free to use :)
