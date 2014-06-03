@@ -1,8 +1,8 @@
 require.config({
     // alias library paths
     paths:{
-        'domReady':'../vendor/requirejs-domready/domReady',
         'angular':'../vendor/angular/angular',
+        'domReady':'../vendor/requirejs-domready/domReady',
         'angular-ui-router':'../vendor/angular-ui-router/release/angular-ui-router'
     },
 

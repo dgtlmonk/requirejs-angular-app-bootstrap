@@ -1,10 +1,10 @@
-define(['require','angular','app'], function (require, ng, app){
+define(['require','angular','./app'], function (require, ng){
     'use strict';
 
-    // console.log(app);
-    require(['domReady'], function (document){
+    require(['domReady!'], function (document){
         console.log('@domReady');
-        // console.log(document);
+
+        // manually start up angular application named 'app'
         ng.bootstrap(document,['app']);
-    })
+    });
 });
